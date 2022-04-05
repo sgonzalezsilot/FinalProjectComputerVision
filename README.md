@@ -5,6 +5,7 @@ Final Project of the subject of Computer Vision. Made with @Ahmed2BP.
 * We apply ImageDataGenerator to balance the classes.
 * We used TensorFlow and Scikit-Learn.
 
+![Curva Roc](https://github.com/sgonzalezsilot/FinalProjectComputerVision/blob/main/images/ROC.png)
 
 
 Dataset Link: https://www.kaggle.com/datasets/praveengovi/coronahack-chest-xraydataset
